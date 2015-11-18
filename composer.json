@@ -1,0 +1,11 @@
+{
+    "name": "denisogr/colors-of-image",
+    "description": "A PHP Library for getting colors from images",
+    "authors": [
+        {
+            "name": "Denis",
+            "email": "denis.porplenko@pdffiller.com"
+        }
+    ],
+    "require": {}
+}
