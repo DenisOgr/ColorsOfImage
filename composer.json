@@ -9,8 +9,8 @@
     ],
     "autoload": {
 		"psr-4": {
-			"denisog\\colors-of-image\\": ""
+			"denisog\\colorsofimage\\": ""
 		}
-	}
+	},
     "require": {}
 }
