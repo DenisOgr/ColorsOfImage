@@ -11,7 +11,7 @@
  * Marc Pacheco
  * 
  */
-namespace denisogr\colorsofimage;
+namespace denisog\colorsofimage;
 
 class ColorsOfImage {
 
