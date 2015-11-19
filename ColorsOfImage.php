@@ -11,6 +11,8 @@
  * Marc Pacheco
  * 
  */
+namespace denisogr\colorsofimage;
+
 class ColorsOfImage {
 
 	var $image;
