@@ -7,5 +7,10 @@
             "email": "denis.porplenko@pdffiller.com"
         }
     ],
+    "autoload": {
+		"psr-4": {
+			"denisog\\colors-of-image\\": ""
+		}
+	}
     "require": {}
 }
